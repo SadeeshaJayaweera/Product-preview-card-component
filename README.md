@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/desktop%20product%20component%20screenshot.png)
+![](./images/desktop product component screenshot.png)
 
 ### Links
 
